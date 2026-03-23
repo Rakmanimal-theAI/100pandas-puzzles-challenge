@@ -2,7 +2,7 @@
 
 ### [Puzzles notebook](https://github.com/ajcr/100-pandas-puzzles/blob/master/100-pandas-puzzles.ipynb)
 
-This repository presents my solutions on [100 Numpy exercises](https://github.com/rougier/numpy-100), for testing your knowledge of [pandas'](http://pandas.pydata.org/) power.
+This repository presents my solutions on [100 Numpy exercises](https://github.com/rougier/numpy-100), for testing my knowledge of [pandas'](http://pandas.pydata.org/) power.
 
 ## Overview of puzzles
 
